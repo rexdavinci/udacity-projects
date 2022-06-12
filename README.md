@@ -1,9 +1,9 @@
 # Project Submission
 
-Truffle Version - v5.5.18 (core: 5.5.18)
-ERC-721 Token Name - Rex Stars
-ERC-721 Token Symbol - RXS
-Token Address on the Rinkeby Network - 0xa3C27136004D4884351Dbe51BD864fB7fDb8fd9A
+- Truffle Version - v5.5.18 (core: 5.5.18)
+- ERC-721 Token Name - Rex Stars
+- ERC-721 Token Symbol - RXS
+- Token Address on the Rinkeby Network - 0xa3C27136004D4884351Dbe51BD864fB7fDb8fd9A
 
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
